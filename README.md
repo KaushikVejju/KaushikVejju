@@ -4,7 +4,6 @@ I'm currently an undergraduate Computer Science student at the University of Mar
 
 Thank you for visiting my page, please feel free to explore!
 
-📫 Contact: kvejju@umd.edu or kaush2003@gmail.com  
 🤝 LinkedIn: https://www.linkedin.com/in/kaushik-vejju-97b4731ab/   
 💻 Personal Website: https://kaushikvejju.github.io/personal-website/
 
