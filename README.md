@@ -5,5 +5,5 @@ I'm currently an undergraduate Computer Science student at the University of Mar
 Thank you for visiting my page, please feel free to explore!
 
 🤝 LinkedIn: https://www.linkedin.com/in/kaushik-vejju-97b4731ab/   
-💻 Personal Website: https://kaushikvejju.github.io/personal-website/
+💻 Personal Website: https://kaushikvejju.netlify.app/
 
