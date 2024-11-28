@@ -1,6 +1,6 @@
 ### Hello, I'm Kaushik. 👋
 
-I'm currently an undergraduate Computer Science student at the University of Maryland, College Park. My interests include full-stack development, DevOps, and data science. I'm always looking to work on new projects and expand my technical skillset, so please reach out if you'd like to collaborate or learn more about my projects.
+I'm currently a Technology Strategy Engineer @ Appian. My interests include full-stack development, DevOps, and data science. I'm always looking to work on new projects and expand my technical skillset, so please reach out if you'd like to collaborate or learn more about my projects.
 
 Thank you for visiting my page, please feel free to explore!
 
